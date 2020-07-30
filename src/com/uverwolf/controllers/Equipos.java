@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 import com.uverwolf.models.Equipo;
-import com.uverwolf.models.Jugador;
+
 @SuppressWarnings("unchecked")
 /**
  * Servlet implementation class Equipos
